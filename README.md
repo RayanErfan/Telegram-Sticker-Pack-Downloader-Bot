@@ -74,8 +74,8 @@ t.me/addstickers/FunnyCats
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/RayanErfan/telegram-sticker-downloader.git
-cd telegram-sticker-downloader
+git clone https://github.com/RayanErfan/Telegram-Sticker-Pack-Downloader-Bot.git
+cd Telegram-Sticker-Pack-Downloader-Bot
 ```
 
 ### 2️⃣ Install Requirements
